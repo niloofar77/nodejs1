@@ -15,7 +15,7 @@
     "@turf/collect": "^6.0.1",
     "compression": "^1.7.4",
     "ejs": "^2.5.6",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "helmet": "^3.21.2",
     "point-in-geopolygon": "^1.0.1",
     "point-in-polygon": "^1.0.1",
